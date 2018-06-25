@@ -1,0 +1,15 @@
+{
+  "name": "elint-preset-standard",
+  "version": "1.0.0",
+  "description": "the standard preset for elint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elint-preset",
+    "elint"
+  ],
+  "author": "",
+  "license": "MIT"
+}
