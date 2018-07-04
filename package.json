@@ -1,6 +1,6 @@
 {
   "name": "elint-preset-standard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the standard preset for elint",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,15 @@
     "elint-preset",
     "elint"
   ],
-  "author": "",
+  "author": {
+    "name": "keenwon",
+    "email": "semanwmj@gmail.com",
+    "url": "http://keenwon.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keenwon/elint-preset-standard.git"
+  },
   "license": "MIT",
   "dependencies": {
     "eslint-config-standard": "^11.0.0",
