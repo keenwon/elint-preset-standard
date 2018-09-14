@@ -1,6 +1,6 @@
 {
   "name": "elint-preset-standard",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "the standard preset for elint",
   "main": "index.js",
   "scripts": {
